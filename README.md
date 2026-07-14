@@ -366,13 +366,6 @@ Golden AMIs will be created for the different tiers (Nginx, Tomcat, Maven) of th
 
 2. **Application Accessibility**:
    - Ensure the application is accessible from a public internet browser.
-
-## Final Note
-
-> [!Important]
->
-> _If you find this repository useful for learning, please give it a star on GitHub. Thank you!_
-
 ---
 
 
